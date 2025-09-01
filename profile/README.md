@@ -453,5 +453,3 @@ cd Whatsapp-Bot && npm install && npm start
 </table>
 </div>
 
-
-```
