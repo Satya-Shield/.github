@@ -297,18 +297,6 @@ graph TB
 
 <br>
 
-## 🧬 **AI ARCHITECTURE DNA**
-
-<div align="center">
-
-<img width="1216" height="514" alt="diagram-export-8-31-2025-8_18_21-PM" src="https://github.com/user-attachments/assets/22d6a86b-2936-4f2e-865d-4e378e263d0a" />
-
-</div>
-
-<br>
-
-<br>
-
 ## 🎮 **QUICK START ADVENTURE**
 
 <div align="center">
